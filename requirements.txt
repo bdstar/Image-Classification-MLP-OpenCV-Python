@@ -1,0 +1,6 @@
+numpy
+matplotlib
+selectivesearch
+opencv-contrib-python
+sklearn
+skimage
